@@ -3,7 +3,7 @@ Discord : https://discord.gg/J5HFpkF
 
 ![fivem](https://i.imgur.com/Y2kqbvJ.jpg)
 
-![video](https://youtu.be/2U83PEMqtVc)
+Vidéo : https://youtu.be/2U83PEMqtVc
 
 
 Gros bigup à Atndesign pour m'avoir aider
