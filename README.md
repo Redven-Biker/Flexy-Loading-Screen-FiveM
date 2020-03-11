@@ -1,4 +1,3 @@
-# Loadingscreen-Sleeford-FiveM
 Discord : https://discord.gg/J5HFpkF
 
 ![fivem](https://i.imgur.com/0BBTdwA.png)
