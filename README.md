@@ -1,4 +1,4 @@
-Discord : https://discord.gg/J5HFpkF
+Discord : https://discord.gg/QW4TDJP
 
 ![fivem](https://i.imgur.com/0BBTdwA.png)
 
