@@ -25,7 +25,7 @@
     <p class="space2"></p>
     <p class="divider">|</p>
     <p class="space2"></p>
-    <p class="info">Discord: <b>J5HFpkF</b></p>
+    <p class="info">Discord: <b>QW4TDJP</b></p>
     <p class="space2"></p>
     <p class="divider">|</p>
     <p class="space2"></p>
@@ -101,6 +101,31 @@ window.addEventListener('message', function(e)
  (handlers[e.data.eventName] || function() {})(e.data);
 });
 </script>
+
+
+<script>
+  var play = false;
+  var myAudio = document.getElementById("loading");
+  
+  myAudio.volume = 0.1;
+
+
+  function onKeyDown(event) {
+          switch (event.keyCode) {
+              case 32: //SpaceBar                    
+                  if (play) {
+                      myAudio.pause();
+                      play = false;
+                  } else {
+                      myAudio.play();
+                      play = true;
+                  }
+                  break;
+          }
+    return false;
+  }
+  window.addEventListener("keydown", onKeyDown, false);
+  </script>
 
 </body>
 </html>
