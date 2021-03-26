@@ -1,9 +1,20 @@
+fx_version 'cerulean'
+games { 'gta5' }
+
+author 'Redven Biker (XLife.fr)'
+description 'Discord : https://discord.gg/C3aN2bBVbB'
+version '1.0.0'
+
+loadscreen 'index.html'
+loadscreen_manual_shutdown 'yes'
+client_script 'client.lua'
+
 files {
     'index.html',
     'css/style.css',
     'css/font.css',
     'img/logo.png',
-    'music/loading.ogg',
+    'music/music.mp3',
     'font/Orbitron-Black',
     'font/Orbitron-Black.woff2',
     'font/Orbitron-Bold',
@@ -17,9 +28,3 @@ files {
     'font/Orbitron-SemiBold',
     'font/Orbitron-SemiBold.woff2'
 }
-
-loadscreen 'index.html'
-loadscreen_manual_shutdown 'yes'
-client_script 'client.lua'
-
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
